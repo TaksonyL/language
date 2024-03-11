@@ -1,0 +1,10 @@
+{
+  "captcha": "Please enter verification code",
+  "login": "Log in",
+  "loginPlaceholder": "Please enter login information",
+  "loginScan": "Scan code to log in",
+  "loginScanTips": "Please use WeChat or Alipay to scan the code to log in",
+  "loginUser": "User login",
+  "passwordPlaceholder": "Please enter your password",
+  "usernamePlaceholder": "Please enter your login account"
+}

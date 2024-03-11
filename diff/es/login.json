@@ -1,0 +1,10 @@
+{
+  "captcha": "por favor ingrese el código de verificación",
+  "login": "Iniciar sesión",
+  "loginPlaceholder": "Por favor ingrese la información de inicio de sesión",
+  "loginScan": "Escanea el código para iniciar sesión",
+  "loginScanTips": "Utilice WeChat o Alipay para escanear el código para iniciar sesión",
+  "loginUser": "Inicio de sesión de usuario",
+  "passwordPlaceholder": "Por favor, introduzca su contraseña",
+  "usernamePlaceholder": "Por favor ingrese su cuenta de inicio de sesión"
+}

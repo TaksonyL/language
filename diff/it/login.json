@@ -1,0 +1,10 @@
+{
+  "captcha": "si prega di inserire il codice di verifica",
+  "login": "Accedere",
+  "loginPlaceholder": "Si prega di inserire le informazioni di accedere",
+  "loginScan": "Scansiona il codice per accedere",
+  "loginScanTips": "Utilizza WeChat o Alipay per scansionare il codice per accedere",
+  "loginUser": "Login utente",
+  "passwordPlaceholder": "per favore inserisci la password di accedere",
+  "usernamePlaceholder": "Per favore inserisci il tuo account di accedere"
+}

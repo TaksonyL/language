@@ -1,0 +1,10 @@
+{
+  "captcha": "Bitte geben Sie den Verifizierungs-Schlüssel ein",
+  "login": "Einloggen",
+  "loginPlaceholder": "Bitte Login-Daten eingeben",
+  "loginScan": "Code scannen, um sich anzumelden",
+  "loginScanTips": "Bitte verwenden Sie WeChat oder Alipay, um den Code für die Anmeldung zu scannen",
+  "loginUser": "Benutzer-Anmeldung",
+  "passwordPlaceholder": "Bitte geben Sie Ihr Passwort ein",
+  "usernamePlaceholder": "Bitte geben Sie Ihr Login-Konto ein"
+}

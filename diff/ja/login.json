@@ -1,0 +1,10 @@
+{
+  "captcha": "認証コードを入力してください。",
+  "login": "ログイン",
+  "loginPlaceholder": "ログイン情報を入力してください。",
+  "loginScan": "QRコードをスキャンしてログイン",
+  "loginScanTips": "WeChatまたはAlipayでQRコードをスキャンしてログイン",
+  "loginUser": "ユーザーログイン",
+  "passwordPlaceholder": "ログインパスワードを入力",
+  "usernamePlaceholder": "ログインアカウントを入力"
+}

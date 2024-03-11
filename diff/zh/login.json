@@ -1,0 +1,10 @@
+{
+  "captcha": "请输入验证码",
+  "login": "登录",
+  "loginPlaceholder": "请输入登录信息",
+  "loginScan": "扫码登录",
+  "loginScanTips": "请使用微信 或 支付宝扫码登陆",
+  "loginUser": "用户登录",
+  "passwordPlaceholder": "请输入登录密码",
+  "usernamePlaceholder": "请输入登录账号"
+}

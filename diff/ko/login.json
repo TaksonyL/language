@@ -1,0 +1,10 @@
+{
+  "captcha": "인증 코드를 입력하세요",
+  "login": "로그인",
+  "loginPlaceholder": "로그인 정보를 입력해주세요",
+  "loginScan": "코드를 스캔하여 로그인",
+  "loginScanTips": "WeChat 또는 Alipay를 사용하여 코드를 스캔하여 로그인하세요.",
+  "loginUser": "사용자 로그인",
+  "passwordPlaceholder": "비밀번호를 입력하세요",
+  "usernamePlaceholder": "로그인 계정을 입력하세요"
+}
