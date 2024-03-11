@@ -1,0 +1,9 @@
+{
+  "addRole": "Add new role",
+  "login": "Login",
+  "loginSuccess": "login successful",
+  "passwordPlaceholder": "Enter login password",
+  "selectRole": "Select login role",
+  "usernamePlaceholder": "Enter login account",
+  "vertifyPlaceholder": "Enter verification code"
+}

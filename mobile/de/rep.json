@@ -1,0 +1,31 @@
+{
+  "channelInfo": "Spurinformationen",
+  "channelName": "Spurname",
+  "distanceTips": "Der Standort ist zu weit vom Gerät entfernt",
+  "expire": "Ablauf",
+  "guideTerminalTips": "Wenn Sie das Ziel festlegen, wird neu navigiert",
+  "info": "allgemeine Informationen",
+  "list": "Nachfüllliste",
+  "machineDistance": "Geräteentfernung",
+  "need": "brauchen",
+  "number": "Menge auffüllen",
+  "origin": "Startpunkt",
+  "path": "Auffüllungspfad",
+  "revokeDisableTips": "Eine erneute Auffüllung kann nicht mehr rückgängig gemacht werden",
+  "revokeTips": "Die Löschung der Liste „Nicht vorrätig“ kann nicht wiederhergestellt werden",
+  "sameGoodsMsg": "Wählen Sie nicht dasselbe Produkt aus",
+  "status": {
+    "finish": "Aufgefüllt",
+    "pending": "Wiederauffüllung",
+    "revoke": "Widerrufen",
+    "wait": "Zum Nachfüllen"
+  },
+  "stockAct": "Tatsächlicher Bestand",
+  "stockNumber": "Bestandsmenge",
+  "stockOrigin": "aktuell",
+  "stockRate": "Aktienquote",
+  "stockRateText": "(Ist/Geplant)",
+  "time": "Zeit zum Auffüllen",
+  "unfinishedTips": "Für das Gerät liegt eine noch nicht abgeschlossene Wiederauffüllungsbestellung vor",
+  "user": "Kaufmann"
+}

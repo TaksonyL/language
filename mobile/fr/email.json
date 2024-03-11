@@ -1,0 +1,18 @@
+{
+  "addConfig": "Ajouter une configuration de messagerie",
+  "authCode": "Code d'autorisation",
+  "config": "configuration de la messagerie",
+  "configDelMsg": "S'il faut supprimer la configuration de messagerie",
+  "copyEmail": "Adresse e-mail en CC",
+  "isHtml": "Que ce soit au format HTML",
+  "log": "journal des notifications",
+  "receiver": "Destinataire",
+  "reply": "partie défenderesse",
+  "replyEmail": "Répondre à l'adresse e-mail",
+  "replyName": "Nom de l'e-mail de réponse",
+  "secretEmail": "Adresse e-mail en copie aveugle",
+  "sendEmail": "e-mail",
+  "sendName": "expéditeur",
+  "sender": "expéditeur",
+  "username": "compte"
+}

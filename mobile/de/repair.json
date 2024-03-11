@@ -1,0 +1,23 @@
+{
+  "content": "Inhalte reparieren",
+  "contentPlaceholder": "Noch kein Inhalt",
+  "desc": "Reparaturanleitung",
+  "descPlaceholder": "Geben Sie Reparaturanweisungen ein",
+  "img": "Verwandte Bilder",
+  "machine": "Gerät reparieren",
+  "ontent": "Falsche Beschreibung",
+  "status": {
+    "failed": "Die Reparatur ist fehlgeschlagen",
+    "finish": "Repariert",
+    "never": "Nicht repariert",
+    "text": "Reparaturstatus",
+    "wait": "Repariert sein"
+  },
+  "submitTime": "Reparaturzeit",
+  "submitter": "Handwerker",
+  "submitterPlaceholder": "Betreten Sie den Reparaturbetrieb",
+  "thanks": "Danke für die Rückmeldung!",
+  "time": "Reparaturzeit",
+  "title": "Fehlertitel",
+  "user": "Handwerker"
+}

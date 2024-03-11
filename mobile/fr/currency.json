@@ -1,0 +1,9 @@
+{
+  "add": "ajouter une devise",
+  "code": "code de devise",
+  "delMsg": "S'il faut supprimer la devise",
+  "iso": "abréviation de la devise",
+  "name": "nom de la devise",
+  "symbol": "symbole de la monnaie",
+  "value": "valeur monétaire"
+}

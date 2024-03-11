@@ -1,0 +1,31 @@
+{
+  "channelInfo": "Informations sur les voies",
+  "channelName": "Nom de la voie",
+  "distanceTips": "L'emplacement est trop éloigné de l'appareil",
+  "expire": "Expiration",
+  "guideTerminalTips": "Définir la destination va re-naviguer",
+  "info": "informations générales",
+  "list": "Liste de réapprovisionnement",
+  "machineDistance": "Distance de l'appareil",
+  "need": "besoin",
+  "number": "Quantité de réapprovisionnement",
+  "origin": "Point de départ",
+  "path": "Chemin de réapprovisionnement",
+  "revokeDisableTips": "Une fois réapprovisionné, il ne peut plus être annulé",
+  "revokeTips": "L'annulation de la liste de rupture de stock ne peut pas être récupérée",
+  "sameGoodsMsg": "Ne sélectionnez pas le même produit",
+  "status": {
+    "finish": "Réapprovisionné",
+    "pending": "Réapprovisionnement",
+    "revoke": "Révoqué",
+    "wait": "A réapprovisionner"
+  },
+  "stockAct": "Stock réel",
+  "stockNumber": "Quantité en stock",
+  "stockOrigin": "actuel",
+  "stockRate": "Taux de stock",
+  "stockRateText": "(Réel/Programmé)",
+  "time": "Temps de réapprovisionnement",
+  "unfinishedTips": "L'appareil a une commande de réapprovisionnement inachevée",
+  "user": "Marchandiseur"
+}

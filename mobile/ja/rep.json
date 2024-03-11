@@ -1,0 +1,31 @@
+{
+  "channelInfo": "レーン情報",
+  "channelName": "レーン名",
+  "distanceTips": "場所がデバイスから遠すぎる",
+  "expire": "有効期限",
+  "guideTerminalTips": "目的地を設定すると再ナビゲートされます",
+  "info": "一般情報",
+  "list": "再入荷リスト",
+  "machineDistance": "デバイスの距離",
+  "need": "必要",
+  "number": "再入荷数量",
+  "origin": "出発地点",
+  "path": "補充パス",
+  "revokeDisableTips": "一度再入荷すると元に戻すことはできません",
+  "revokeTips": "キャンセルした在庫切れリストは復元できません",
+  "sameGoodsMsg": "同じ商品を選択しないでください",
+  "status": {
+    "finish": "再入荷しました",
+    "pending": "再入荷中",
+    "revoke": "取り消されました",
+    "wait": "再入荷予定"
+  },
+  "stockAct": "実際の在庫",
+  "stockNumber": "在庫数",
+  "stockOrigin": "現在",
+  "stockRate": "株式比率",
+  "stockRateText": "(実績/予定)",
+  "time": "再入荷時期",
+  "unfinishedTips": "デバイスには未完了の再入荷注文があります",
+  "user": "マーチャンダイザー"
+}

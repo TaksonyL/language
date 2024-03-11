@@ -1,0 +1,9 @@
+{
+  "add": "agregar moneda",
+  "code": "código de moneda",
+  "delMsg": "Si eliminar moneda",
+  "iso": "abreviatura de moneda",
+  "name": "nombre de la moneda",
+  "symbol": "símbolo de moneda",
+  "value": "valor de la moneda"
+}

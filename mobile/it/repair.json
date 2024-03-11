@@ -1,0 +1,23 @@
+{
+  "content": "Riparare il contenuto",
+  "contentPlaceholder": "Nessun contenuto ancora",
+  "desc": "Istruzioni per la riparazione",
+  "descPlaceholder": "Inserisci le istruzioni per la riparazione",
+  "img": "Immagini correlate",
+  "machine": "Dispositivo di riparazione",
+  "ontent": "Descrizione del guasto",
+  "status": {
+    "failed": "La riparazione non è riuscita",
+    "finish": "Riparato",
+    "never": "Non riparato",
+    "text": "Stato della riparazione",
+    "wait": "Da riparare"
+  },
+  "submitTime": "Tempo di riparazione",
+  "submitter": "Riparatore",
+  "submitterPlaceholder": "Entra il riparatore",
+  "thanks": "Grazie per il feedback!",
+  "time": "Tempo di riparazione",
+  "title": "Titolo del guasto",
+  "user": "Riparatore"
+}

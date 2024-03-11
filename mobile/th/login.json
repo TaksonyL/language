@@ -1,0 +1,9 @@
+{
+  "addRole": "เพิ่มบทบาทใหม่",
+  "login": "เข้าสู่ระบบ",
+  "loginSuccess": "เข้าสู่ระบบสำเร็จ",
+  "passwordPlaceholder": "ป้อนรหัสผ่านเข้าสู่ระบบ",
+  "selectRole": "เลือกบทบาทการเข้าสู่ระบบ",
+  "usernamePlaceholder": "เข้าสู่บัญชีเข้าสู่ระบบ",
+  "vertifyPlaceholder": "ระบุรหัสยืนยืน"
+}

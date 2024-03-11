@@ -1,0 +1,10 @@
+{
+  "operation": "Fonction d'opération",
+  "refundCheck": "Examen du remboursement",
+  "refundCheckPending": "Vous avez {number} remboursement à traiter",
+  "salesMoney": "Montant des ventes",
+  "setting": "Configuration avancée",
+  "shareMoney": "Montant du bénéfice",
+  "warning": "Avis d'avertissement",
+  "warningPending": "Vous avez {number} avis d'avertissement"
+}

@@ -1,0 +1,9 @@
+{
+  "addRole": "新しい役割を追加する",
+  "login": "ログイン",
+  "loginSuccess": "ログイン成功",
+  "passwordPlaceholder": "ログインパスワードを入力してください",
+  "selectRole": "ログインロールの選択",
+  "usernamePlaceholder": "ログインアカウントを入力してください",
+  "vertifyPlaceholder": "確認コードを入力してください"
+}

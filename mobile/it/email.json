@@ -1,0 +1,18 @@
+{
+  "addConfig": "Aggiungi la configurazione della posta",
+  "authCode": "Codice di autorizzazione",
+  "config": "configurazione della posta",
+  "configDelMsg": "Se eliminare la configurazione della posta",
+  "copyEmail": "Indirizzo e-mail in CC",
+  "isHtml": "Sia il formato HTML",
+  "log": "registro delle notifiche",
+  "receiver": "Ricevitore",
+  "reply": "parte rispondente",
+  "replyEmail": "Rispondi all'indirizzo email",
+  "replyName": "Nome e-mail di risposta",
+  "secretEmail": "Indirizzo e-mail in copia nascosta",
+  "sendEmail": "e-mail",
+  "sendName": "mittente",
+  "sender": "mittente",
+  "username": "account"
+}

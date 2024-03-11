@@ -1,0 +1,9 @@
+{
+  "add": "add currency",
+  "code": "currency code",
+  "delMsg": "Whether to delete currency",
+  "iso": "currency abbreviation",
+  "name": "currency name",
+  "symbol": "currency symbol",
+  "value": "currency value"
+}

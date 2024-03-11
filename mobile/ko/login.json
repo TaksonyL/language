@@ -1,0 +1,9 @@
+{
+  "addRole": "새 역할 추가",
+  "login": "로그인",
+  "loginSuccess": "성공적 로그인",
+  "passwordPlaceholder": "로그인 비밀번호를 입력하세요",
+  "selectRole": "로그인 역할 선택",
+  "usernamePlaceholder": "로그인 계정을 입력하세요",
+  "vertifyPlaceholder": "인증코드를 입력하세요"
+}

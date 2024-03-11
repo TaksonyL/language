@@ -1,0 +1,23 @@
+{
+  "content": "Repair content",
+  "contentPlaceholder": "No content yet",
+  "desc": "Repair instructions",
+  "descPlaceholder": "Enter repair instructions",
+  "img": "Related pictures",
+  "machine": "Repair device",
+  "ontent": "Fault description",
+  "status": {
+    "failed": "Repair failed",
+    "finish": "Repaired",
+    "never": "Not repaired",
+    "text": "Repair status",
+    "wait": "To be repaired"
+  },
+  "submitTime": "Repair time",
+  "submitter": "Repairman",
+  "submitterPlaceholder": "Enter the repairer",
+  "thanks": "Thanks for feedback!",
+  "time": "Repair time",
+  "title": "Fault title",
+  "user": "Repairman"
+}

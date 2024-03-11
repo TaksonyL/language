@@ -1,0 +1,10 @@
+{
+  "operation": "Betriebsfunktion",
+  "refundCheck": "Überprüfung der Rückerstattung",
+  "refundCheckPending": "Sie müssen {number} Rückerstattungen bearbeiten",
+  "salesMoney": "Verkaufsmenge",
+  "setting": "Erweiterte Konfiguration",
+  "shareMoney": "Gewinnbetrag",
+  "warning": "Warnung",
+  "warningPending": "Sie haben eine Warnmeldung von {number}"
+}

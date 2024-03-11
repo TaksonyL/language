@@ -1,0 +1,23 @@
+{
+  "content": "콘텐츠 복구",
+  "contentPlaceholder": "아직 콘텐츠가 없습니다.",
+  "desc": "수리 지침",
+  "descPlaceholder": "수리 지침 입력",
+  "img": "관련 사진",
+  "machine": "수리 장치",
+  "ontent": "결함 설명",
+  "status": {
+    "failed": "수리 실패",
+    "finish": "수리됨",
+    "never": "수리되지 않음",
+    "text": "수리상태",
+    "wait": "수리 예정"
+  },
+  "submitTime": "수리 시간",
+  "submitter": "수리공",
+  "submitterPlaceholder": "수리공을 입력하세요",
+  "thanks": "피드백을 보내주셔서 감사합니다!",
+  "time": "수리 시간",
+  "title": "결함 제목",
+  "user": "수리공"
+}

@@ -1,0 +1,18 @@
+{
+  "addConfig": "メール設定を追加する",
+  "authCode": "認証コード",
+  "config": "メール設定",
+  "configDelMsg": "メール設定を削除するかどうか",
+  "copyEmail": "CCメールアドレス",
+  "isHtml": "HTML形式かどうか",
+  "log": "通知ログ",
+  "receiver": "受信機",
+  "reply": "応答側",
+  "replyEmail": "メールアドレスに返信",
+  "replyName": "返信メール名",
+  "secretEmail": "ブラインドコピーメールアドレス",
+  "sendEmail": "Eメール",
+  "sendName": "差出人",
+  "sender": "差出人",
+  "username": "アカウント"
+}

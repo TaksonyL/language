@@ -1,0 +1,31 @@
+{
+  "channelInfo": "차선정보",
+  "channelName": "차선 이름",
+  "distanceTips": "위치가 기기에서 너무 멀다",
+  "expire": "만료",
+  "guideTerminalTips": "목적지를 설정하면 다시 탐색됩니다.",
+  "info": "일반 정보",
+  "list": "재입고 목록",
+  "machineDistance": "장치 거리",
+  "need": "필요",
+  "number": "재입고 수량",
+  "origin": "시작점",
+  "path": "재입고 경로",
+  "revokeDisableTips": "재입고되면 취소할 수 없습니다.",
+  "revokeTips": "품절 취소 목록은 복구할 수 없습니다.",
+  "sameGoodsMsg": "동일한 상품을 선택하지 마세요.",
+  "status": {
+    "finish": "재입고됨",
+    "pending": "재입고",
+    "revoke": "취소됨",
+    "wait": "재입고 예정"
+  },
+  "stockAct": "실제 재고",
+  "stockNumber": "재고 수량",
+  "stockOrigin": "현재의",
+  "stockRate": "재고비율",
+  "stockRateText": "(실제/예정)",
+  "time": "재입고 시간",
+  "unfinishedTips": "기기에 완료되지 않은 재입고 주문이 있습니다.",
+  "user": "머천다이저"
+}

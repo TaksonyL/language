@@ -1,0 +1,10 @@
+{
+  "operation": "ฟังก์ชั่นการทำงาน",
+  "refundCheck": "รีวิวการคืนเงิน",
+  "refundCheckPending": "คุณมีเงินคืนจำนวน {number} ที่จะต้องดำเนินการ",
+  "salesMoney": "ยอดขาย",
+  "setting": "การกำหนดค่าขั้นสูง",
+  "shareMoney": "จำนวนกำไร",
+  "warning": "คำเตือน",
+  "warningPending": "คุณมีการแจ้งเตือน {number}"
+}

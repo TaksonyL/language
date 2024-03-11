@@ -1,0 +1,23 @@
+{
+  "content": "Reparar conteúdo",
+  "contentPlaceholder": "Ainda não há conteúdo",
+  "desc": "Instruções de reparo",
+  "descPlaceholder": "Insira as instruções de reparo",
+  "img": "Fotos relacionadas",
+  "machine": "Dispositivo de reparo",
+  "ontent": "Descrição da falha",
+  "status": {
+    "failed": "Falha no reparo",
+    "finish": "Reparado",
+    "never": "Não reparado",
+    "text": "Status do reparo",
+    "wait": "Para ser reparado"
+  },
+  "submitTime": "Tempo de reparo",
+  "submitter": "Reparador",
+  "submitterPlaceholder": "Entre no reparador",
+  "thanks": "Obrigado pelo feedback!",
+  "time": "Tempo de reparo",
+  "title": "Título da falha",
+  "user": "Reparador"
+}

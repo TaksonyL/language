@@ -1,0 +1,9 @@
+{
+  "addRole": "添加新角色",
+  "login": "立即登录",
+  "loginSuccess": "登录成功",
+  "passwordPlaceholder": "请输入登陆密码",
+  "selectRole": "请选择您登录的角色",
+  "usernamePlaceholder": "请输入登陆账号",
+  "vertifyPlaceholder": "请输入验证码"
+}

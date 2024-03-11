@@ -1,0 +1,9 @@
+{
+  "addRole": "Добавить новую роль",
+  "login": "Авторизоваться",
+  "loginSuccess": "Авторизация успешна",
+  "passwordPlaceholder": "Введите пароль для входа",
+  "selectRole": "Выберите роль для входа",
+  "usernamePlaceholder": "Войти в учетную запись",
+  "vertifyPlaceholder": "введите код подтверждения"
+}

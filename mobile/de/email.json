@@ -1,0 +1,18 @@
+{
+  "addConfig": "E-Mail-Konfiguration hinzufügen",
+  "authCode": "Autorisierungscode",
+  "config": "Mail-Konfiguration",
+  "configDelMsg": "Ob die E-Mail-Konfiguration gelöscht werden soll",
+  "copyEmail": "CC-E-Mail-Adresse",
+  "isHtml": "Ob HTML-Format",
+  "log": "Benachrichtigungsprotokoll",
+  "receiver": "Empfänger",
+  "reply": "antwortende Partei",
+  "replyEmail": "Auf E-Mail-Adresse antworten",
+  "replyName": "E-Mail-Name der Antwort",
+  "secretEmail": "Blindkopie der E-Mail-Adresse",
+  "sendEmail": "Email",
+  "sendName": "Absender",
+  "sender": "Absender",
+  "username": "Konto"
+}

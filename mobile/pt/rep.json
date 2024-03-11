@@ -1,0 +1,31 @@
+{
+  "channelInfo": "Informações da pista",
+  "channelName": "Nome da pista",
+  "distanceTips": "A localização está muito longe do dispositivo",
+  "expire": "Expiração",
+  "guideTerminalTips": "Defina o destino para navegar novamente",
+  "info": "informações gerais",
+  "list": "Lista de reabastecimento",
+  "machineDistance": "Distância do dispositivo",
+  "need": "precisar",
+  "number": "Quantidade de reabastecimento",
+  "origin": "Ponto de partida",
+  "path": "Caminho de reabastecimento",
+  "revokeDisableTips": "Uma vez reabastecido, não pode ser desfeito",
+  "revokeTips": "Cancelar lista fora de estoque não pode ser recuperada",
+  "sameGoodsMsg": "Não selecione o mesmo produto",
+  "status": {
+    "finish": "Reabastecido",
+    "pending": "Reabastecimento",
+    "revoke": "Revogado",
+    "wait": "Para ser reabastecido"
+  },
+  "stockAct": "Estoque real",
+  "stockNumber": "Quantidade em estoque",
+  "stockOrigin": "atual",
+  "stockRate": "Proporção de estoque",
+  "stockRateText": "(Real/Programado)",
+  "time": "Tempo de reabastecimento",
+  "unfinishedTips": "O dispositivo tem um pedido de reabastecimento inacabado",
+  "user": "Comerciante"
+}

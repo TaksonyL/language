@@ -1,0 +1,10 @@
+{
+  "operation": "조작 기능",
+  "refundCheck": "환불 검토",
+  "refundCheckPending": "처리해야 할 환불이 {number}개 있습니다",
+  "salesMoney": "판매량",
+  "setting": "고급 구성",
+  "shareMoney": "이익금액",
+  "warning": "경고 공지",
+  "warningPending": "{number}개의 경고 알림이 있습니다."
+}

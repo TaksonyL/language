@@ -1,0 +1,34 @@
+{
+  "channelInfo": "货道信息",
+  "channelName": "货道名称",
+  "distanceTips": "当前定位离设备太远",
+  "expire": "过期时间",
+  "guideTerminalTips": "设置终点会重新导航",
+  "info": "总体信息",
+  "list": "补货列表",
+  "machineDistance": "设备距离",
+  "need": "需要",
+  "number": "补货数量",
+  "origin": "起点",
+  "path": "补货路径",
+  "revokeDisableTips": "选择补货后将无法撤销",
+  "revokeTips": "撤销缺货单将无法恢复",
+  "role": {
+    "noticeWeakSignal": "弱信号通知"
+  },
+  "sameGoodsMsg": "请勿选择相同商品",
+  "status": {
+    "finish": "已补货",
+    "pending": "补货中",
+    "revoke": "已撤销",
+    "wait": "待补货"
+  },
+  "stockAct": "实际库存",
+  "stockNumber": "库存数量",
+  "stockOrigin": "当前",
+  "stockRate": "库存比例",
+  "stockRateText": "（实际/原定）",
+  "time": "补货时间",
+  "unfinishedTips": "设备尚有未完成补货单",
+  "user": "补货人"
+}

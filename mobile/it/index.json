@@ -1,0 +1,10 @@
+{
+  "operation": "Funzione operativa",
+  "refundCheck": "Revisione del rimborso",
+  "refundCheckPending": "Hai {numero} rimborso da elaborare",
+  "salesMoney": "Ammontare delle vendite",
+  "setting": "Configurazione avanzata",
+  "shareMoney": "Importo del profitto",
+  "warning": "Avviso di avvertenza",
+  "warningPending": "Hai {numero} avviso di avviso"
+}

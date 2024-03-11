@@ -1,0 +1,18 @@
+{
+  "addConfig": "添加邮件配置",
+  "authCode": "授权码",
+  "config": "邮件配置",
+  "configDelMsg": "是否删除邮件配置",
+  "copyEmail": "抄送邮件地址",
+  "isHtml": "是否HTML格式",
+  "log": "通知日志",
+  "receiver": "接收人",
+  "reply": "回复方",
+  "replyEmail": "回复邮箱地址",
+  "replyName": "回复邮箱名称",
+  "secretEmail": "密抄邮件地址",
+  "sendEmail": "账号",
+  "sendName": "发件人",
+  "sender": "发件人",
+  "username": "账号"
+}

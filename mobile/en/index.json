@@ -1,0 +1,10 @@
+{
+  "operation": "Operation function",
+  "refundCheck": "Refund review",
+  "refundCheckPending": "You have {number} refund to be processed",
+  "salesMoney": "Sales amount",
+  "setting": "Advanced config",
+  "shareMoney": "Profit amount",
+  "warning": "Warning notice",
+  "warningPending": "You have {number} warning notice"
+}

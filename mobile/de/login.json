@@ -1,0 +1,9 @@
+{
+  "addRole": "Neue Rolle hinzufügen",
+  "login": "Anmeldung",
+  "loginSuccess": "Anmeldung erfolgreich",
+  "passwordPlaceholder": "Geben Sie das Login-Passwort ein",
+  "selectRole": "Wählen Sie die Anmelderolle aus",
+  "usernamePlaceholder": "Geben Sie das Anmeldekonto ein",
+  "vertifyPlaceholder": "Bestätigungscode eingeben"
+}

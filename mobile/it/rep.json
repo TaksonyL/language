@@ -1,0 +1,31 @@
+{
+  "channelInfo": "Informazioni sulla corsia",
+  "channelName": "Nome della corsia",
+  "distanceTips": "La posizione è troppo lontana dal dispositivo",
+  "expire": "Scadenza",
+  "guideTerminalTips": "Impostata la destinazione si navigherà nuovamente",
+  "info": "informazioni generali",
+  "list": "Elenco di rifornimento",
+  "machineDistance": "Distanza del dispositivo",
+  "need": "Bisogno",
+  "number": "Quantità di rifornimento",
+  "origin": "Punto di partenza",
+  "path": "Percorso di rifornimento",
+  "revokeDisableTips": "Una volta effettuato il rifornimento, l'operazione non può essere annullata",
+  "revokeTips": "L'elenco annullato delle scorte esaurite non può essere recuperato",
+  "sameGoodsMsg": "Non selezionare lo stesso prodotto",
+  "status": {
+    "finish": "Rifornito",
+    "pending": "Rifornimento",
+    "revoke": "Revocato",
+    "wait": "Da rifornire"
+  },
+  "stockAct": "Scorta effettiva",
+  "stockNumber": "Quantità di scorta",
+  "stockOrigin": "attuale",
+  "stockRate": "Rapporto delle azioni",
+  "stockRateText": "(Effettivo/Programmato)",
+  "time": "Tempo di rifornimento",
+  "unfinishedTips": "Il dispositivo ha un ordine di rifornimento incompleto",
+  "user": "Merchandiser"
+}

@@ -1,0 +1,23 @@
+{
+  "content": "维修内容",
+  "contentPlaceholder": "暂未填写内容",
+  "desc": "维修说明",
+  "descPlaceholder": "请输入维修说明",
+  "img": "相关图片",
+  "machine": "报修设备",
+  "ontent": "故障描述",
+  "status": {
+    "failed": "修复失败",
+    "finish": "已修复",
+    "never": "未维修",
+    "text": "维修状态",
+    "wait": "待维修"
+  },
+  "submitTime": "报修时间",
+  "submitter": "报修人",
+  "submitterPlaceholder": "请输入报修人",
+  "thanks": "感谢反馈！",
+  "time": "维修时间",
+  "title": "故障标题",
+  "user": "维修人"
+}

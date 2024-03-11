@@ -1,0 +1,23 @@
+{
+  "content": "修理内容",
+  "contentPlaceholder": "まだコンテンツがありません",
+  "desc": "修理手順",
+  "descPlaceholder": "修理手順を入力してください",
+  "img": "関連画像",
+  "machine": "修理装置",
+  "ontent": "障害の説明",
+  "status": {
+    "failed": "修復に失敗しました",
+    "finish": "修理済み",
+    "never": "修理されていない",
+    "text": "修理状況",
+    "wait": "修理予定"
+  },
+  "submitTime": "修理時間",
+  "submitter": "修理工",
+  "submitterPlaceholder": "修理業者に入る",
+  "thanks": "フィードバックありがとうございます!",
+  "time": "修理時間",
+  "title": "障害タイトル",
+  "user": "修理工"
+}

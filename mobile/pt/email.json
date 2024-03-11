@@ -1,0 +1,18 @@
+{
+  "addConfig": "Adicionar configuração de email",
+  "authCode": "Código de autorização",
+  "config": "configuração de correio",
+  "configDelMsg": "Se deseja excluir a configuração de email",
+  "copyEmail": "Endereço de e-mail CC",
+  "isHtml": "Seja no formato HTML",
+  "log": "registro de notificação",
+  "receiver": "Receptor",
+  "reply": "parte respondente",
+  "replyEmail": "Responder ao endereço de e-mail",
+  "replyName": "Nome do e-mail de resposta",
+  "secretEmail": "Endereço de e-mail de cópia oculta",
+  "sendEmail": "e-mail",
+  "sendName": "remetente",
+  "sender": "remetente",
+  "username": "conta"
+}

@@ -1,0 +1,9 @@
+{
+  "add": "Währung hinzufügen",
+  "code": "Währungscode",
+  "delMsg": "Ob die Währung gelöscht werden soll",
+  "iso": "Währungsabkürzung",
+  "name": "Währungsname",
+  "symbol": "Währungszeichen",
+  "value": "Wert der Währung"
+}

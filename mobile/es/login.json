@@ -1,0 +1,9 @@
+{
+  "addRole": "Agregar nuevo rol",
+  "login": "Acceso",
+  "loginSuccess": "Inicio de sesión correcto",
+  "passwordPlaceholder": "Ingrese la contraseña de inicio de sesión",
+  "selectRole": "Seleccionar función de inicio de sesión",
+  "usernamePlaceholder": "Ingrese la cuenta de inicio de sesión",
+  "vertifyPlaceholder": "Ingrese el código de verificación"
+}

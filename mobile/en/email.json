@@ -1,0 +1,18 @@
+{
+  "addConfig": "Add mail configuration",
+  "authCode": "Authorization code",
+  "config": "mail configuration",
+  "configDelMsg": "Whether to delete the mail configuration",
+  "copyEmail": "CC email address",
+  "isHtml": "Whether HTML format",
+  "log": "notification log",
+  "receiver": "Receiver",
+  "reply": "responding party",
+  "replyEmail": "Reply to email address",
+  "replyName": "Reply email name",
+  "secretEmail": "Blind copy email address",
+  "sendEmail": "email",
+  "sendName": "sender",
+  "sender": "sender",
+  "username": "account"
+}

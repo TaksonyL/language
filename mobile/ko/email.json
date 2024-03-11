@@ -1,0 +1,18 @@
+{
+  "addConfig": "메일 구성 추가",
+  "authCode": "인증 코드",
+  "config": "메일 구성",
+  "configDelMsg": "메일 구성 삭제 여부",
+  "copyEmail": "참조 이메일 주소",
+  "isHtml": "HTML 형식인지 여부",
+  "log": "알림 로그",
+  "receiver": "수화기",
+  "reply": "응답 당사자",
+  "replyEmail": "이메일 주소로 답장하기",
+  "replyName": "답장 이메일 이름",
+  "secretEmail": "블라인드 카피 이메일 주소",
+  "sendEmail": "이메일",
+  "sendName": "보내는 사람",
+  "sender": "보내는 사람",
+  "username": "계정"
+}

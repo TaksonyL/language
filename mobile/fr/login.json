@@ -1,0 +1,9 @@
+{
+  "addRole": "Ajouter un nouveau rôle",
+  "login": "Se connecter",
+  "loginSuccess": "connexion réussie",
+  "passwordPlaceholder": "Entrez le mot de passe de connexion",
+  "selectRole": "Sélectionnez le rôle de connexion",
+  "usernamePlaceholder": "Entrez le compte de connexion",
+  "vertifyPlaceholder": "Entrez le code de vérification"
+}

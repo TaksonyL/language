@@ -1,0 +1,31 @@
+{
+  "channelInfo": "Lane information",
+  "channelName": "Lane name",
+  "distanceTips": "The location is too far from the device",
+  "expire": "Expiration",
+  "guideTerminalTips": "Set the destination will re-navigate",
+  "info": "General information",
+  "list": "Restock list",
+  "machineDistance": "Device distance",
+  "need": "need",
+  "number": "Restock quantity",
+  "origin": "Start point",
+  "path": "Restock path",
+  "revokeDisableTips": "Once restock, it cannot be undone",
+  "revokeTips": "Cancel out-of-stock list cannot be recovered",
+  "sameGoodsMsg": "Do not select the same product",
+  "status": {
+    "finish": "Restocked",
+    "pending": "Restocking",
+    "revoke": "Revoked",
+    "wait": "To be restock"
+  },
+  "stockAct": "Actual stock",
+  "stockNumber": "Stock quantity",
+  "stockOrigin": "current",
+  "stockRate": "Stock ratio",
+  "stockRateText": "(Actual/Scheduled)",
+  "time": "Restock time",
+  "unfinishedTips": "Device has an unfinished restock order",
+  "user": "Merchandiser"
+}

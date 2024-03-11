@@ -1,0 +1,9 @@
+{
+  "addRole": "Aggiungi nuovo ruolo",
+  "login": "Login",
+  "loginSuccess": "accesso riuscito",
+  "passwordPlaceholder": "Inserisci la password di accesso",
+  "selectRole": "Seleziona il ruolo di accesso",
+  "usernamePlaceholder": "Inserisci l'account di accesso",
+  "vertifyPlaceholder": "Inserisci il codice di verifica"
+}

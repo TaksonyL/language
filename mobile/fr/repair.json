@@ -1,0 +1,23 @@
+{
+  "content": "Réparer le contenu",
+  "contentPlaceholder": "Pas encore de contenu",
+  "desc": "Instructions de réparation",
+  "descPlaceholder": "Entrez les instructions de réparation",
+  "img": "Images associées",
+  "machine": "Appareil de réparation",
+  "ontent": "Description du défaut",
+  "status": {
+    "failed": "La réparation a échoué",
+    "finish": "Réparé",
+    "never": "Non réparé",
+    "text": "État de la réparation",
+    "wait": "Être réparé"
+  },
+  "submitTime": "Temps de réparation",
+  "submitter": "Dépanneur",
+  "submitterPlaceholder": "Entrez le réparateur",
+  "thanks": "Merci pour vos commentaires !",
+  "time": "Temps de réparation",
+  "title": "Titre du défaut",
+  "user": "Dépanneur"
+}

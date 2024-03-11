@@ -1,0 +1,9 @@
+{
+  "add": "aggiungere valuta",
+  "code": "codice valuta",
+  "delMsg": "Se eliminare la valuta",
+  "iso": "abbreviazione di valuta",
+  "name": "nome della valuta",
+  "symbol": "Simbolo di valuta",
+  "value": "valore della valuta"
+}

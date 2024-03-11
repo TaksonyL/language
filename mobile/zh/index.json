@@ -1,0 +1,10 @@
+{
+  "operation": "运营功能",
+  "refundCheck": "退款审核",
+  "refundCheckPending": "您有 {number} 条退款申请待处理",
+  "salesMoney": "销售金额",
+  "setting": "高级配置",
+  "shareMoney": "分润金额",
+  "warning": "预警通知",
+  "warningPending": "您有 {number} 条预警通知"
+}

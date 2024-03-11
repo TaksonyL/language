@@ -1,0 +1,31 @@
+{
+  "channelInfo": "Información de carril",
+  "channelName": "Nombre del carril",
+  "distanceTips": "La ubicación está demasiado lejos del dispositivo.",
+  "expire": "Vencimiento",
+  "guideTerminalTips": "Establecer el destino volverá a navegar",
+  "info": "información general",
+  "list": "Lista de reabastecimiento",
+  "machineDistance": "Distancia del dispositivo",
+  "need": "necesidad",
+  "number": "Cantidad de reabastecimiento",
+  "origin": "Punto de partida",
+  "path": "Ruta de reabastecimiento",
+  "revokeDisableTips": "Una vez reabastecido, no se puede deshacer.",
+  "revokeTips": "Cancelar lista de agotados no se puede recuperar",
+  "sameGoodsMsg": "No seleccione el mismo producto",
+  "status": {
+    "finish": "Reabastecido",
+    "pending": "Reposición",
+    "revoke": "Revocado",
+    "wait": "Para reponer"
+  },
+  "stockAct": "Existencias reales",
+  "stockNumber": "Cantidad de stock",
+  "stockOrigin": "actual",
+  "stockRate": "Relación de stock",
+  "stockRateText": "(Real/Programado)",
+  "time": "Tiempo de reabastecimiento",
+  "unfinishedTips": "El dispositivo tiene un pedido de reabastecimiento sin terminar",
+  "user": "Comerciante"
+}
