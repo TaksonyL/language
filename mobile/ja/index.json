@@ -1,10 +1,10 @@
 {
-  "operation": "操作機能",
-  "refundCheck": "返金審査",
-  "refundCheckPending": "{number} 件の払い戻しを処理する必要があります",
-  "salesMoney": "売上高",
-  "setting": "高度な構成",
-  "shareMoney": "利益額",
+  "operation": "運営機能",
+  "refundCheck": "返金の審査",
+  "refundCheckPending": " {number}件の返金申請が保留中です",
+  "salesMoney": "売上金額",
+  "setting": "詳細設定",
+  "shareMoney": "利益分配額",
   "warning": "警告通知",
-  "warningPending": "{number} 個の警告通知があります"
+  "warningPending": " {number} 件の警告通知があります。"
 }

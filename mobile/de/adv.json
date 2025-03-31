@@ -74,6 +74,7 @@
     "wait": "ausstehend"
   },
   "switch": "Anzeigenstatus",
+  "tag": "Etikett",
   "time": "Werbezeit",
   "timeDiscount": "Zeitraumrabatt",
   "timeImg": "Bilddauer",

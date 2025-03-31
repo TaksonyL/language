@@ -1,23 +1,23 @@
 {
-  "content": "修理内容",
-  "contentPlaceholder": "まだコンテンツがありません",
-  "desc": "修理手順",
-  "descPlaceholder": "修理手順を入力してください",
+  "content": "メンテナンス内容",
+  "contentPlaceholder": "内容がまだ入力されていません",
+  "desc": "メンテナンスの説明",
+  "descPlaceholder": "メンテナンスの説明を入力してください",
   "img": "関連画像",
-  "machine": "修理装置",
-  "ontent": "障害の説明",
+  "machine": "修理対象のデバイス",
+  "ontent": "故障の説明",
   "status": {
-    "failed": "修復に失敗しました",
-    "finish": "修理済み",
-    "never": "修理されていない",
-    "text": "修理状況",
-    "wait": "修理予定"
+    "failed": "修復失敗",
+    "finish": "修復済み",
+    "never": "修理未完了",
+    "text": "メンテナンス状況",
+    "wait": "メンテナンス待ち"
   },
-  "submitTime": "修理時間",
-  "submitter": "修理工",
-  "submitterPlaceholder": "修理業者に入る",
-  "thanks": "フィードバックありがとうございます!",
+  "submitTime": "修理依頼日",
+  "submitter": "申請者",
+  "submitterPlaceholder": "報修者を入力",
+  "thanks": "フィードバックありがとうございます！",
   "time": "修理時間",
-  "title": "障害タイトル",
-  "user": "修理工"
+  "title": "故障内容のタイトル",
+  "user": "メンテナンス担当者"
 }

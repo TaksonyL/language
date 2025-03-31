@@ -74,6 +74,7 @@
     "wait": "pendente"
   },
   "switch": "Status do anúncio",
+  "tag": "Marcação",
   "time": "Hora do anúncio",
   "timeDiscount": "Desconto por período",
   "timeImg": "Duração da imagem",

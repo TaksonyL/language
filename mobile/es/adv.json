@@ -74,6 +74,7 @@
     "wait": "pendiente"
   },
   "switch": "Estado del anuncio",
+  "tag": "Etiqueta",
   "time": "tiempo de publicidad",
   "timeDiscount": "Descuento por periodo de tiempo",
   "timeImg": "Duración de la imagen",

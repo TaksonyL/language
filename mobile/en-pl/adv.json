@@ -74,6 +74,7 @@
     "wait": "Not started"
   },
   "switch": "Ad status",
+  "tag": "Tag",
   "time": "Advertise time",
   "timeDiscount": "Time period discount",
   "timeImg": "Picture duration",
