@@ -56,6 +56,9 @@
   "receiverRolePlaceholder": "Пожалуйста, выберите личность грузополучателя",
   "reject": "отклонять",
   "revokeSuccess": "Отменить удалось",
+  "role": {
+    "secretKey": ""
+  },
   "sendTime": "отправить время",
   "sender": "отправитель",
   "sent": "уже отгружен",

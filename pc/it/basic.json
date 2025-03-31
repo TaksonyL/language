@@ -43,6 +43,7 @@
     "roleType": "tipo di ruolo",
     "roleTypePlaceholder": "Seleziona un tipo di ruolo"
   },
+  "enterTerminal": "Inserire il numero del terminale",
   "flag": "bandiera",
   "language": "lingua",
   "localName": "nome locale",
@@ -191,6 +192,7 @@
   "saveMsg": "Dopo aver fatto clic su Pubblica, il menu Account ufficiale verrà sostituito",
   "savePublish": "salva e pubblica",
   "stateName": "numero di zona",
+  "terminal": "Numero terminale",
   "timeZone": "Fuso orario",
   "toCtoP": {
     "debug": "Debug",

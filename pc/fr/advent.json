@@ -19,6 +19,8 @@
     "screenPosPlaceholder": "Veuillez sélectionner une position d'écran",
     "screenPosSub": "Écran secondaire",
     "time": "Le moment de placer",
+    "tip1": "L'écran d'accueil fait généralement référence à un grand écran à l'avant de l'appareil avec de nombreuses fonctions, notamment l'affichage d'informations sur les produits, la publicité, l'interaction homme - machine, etc.",
+    "tip2": "Un écran secondaire désigne généralement un ou plusieurs écrans d'affichage supplémentaires configurés sur un appareil pour fournir un affichage d'informations supplémentaires ou des fonctions interactives.",
     "title": "annonce par défaut"
   },
   "charge": {
@@ -43,6 +45,7 @@
   },
   "count": "Nombre d'annonces placées",
   "countPlaceholder": "Veuillez sélectionner le nombre d'annonces placées",
+  "delTips": "Efface-t-il la mémoire d'Android ?",
   "duration": "période",
   "outBatch": "Suppression en masse",
   "outBatchTips": "Veuillez sélectionner une annonce",
@@ -65,6 +68,8 @@
     "default": "Matériau par défaut",
     "desc": "Introduction",
     "detail": "Détails de la publicité",
+    "exceed150M": "La taille de la vidéo ne peut pas dépasser 150m",
+    "exceed5M": "La taille de l'image ne peut pas dépasser 5M",
     "filePlaceholder": "Veuillez télécharger le matériel",
     "link": "Lien matériel",
     "name": "Nom du matériau",
@@ -73,6 +78,7 @@
     "show": "Affichage du matériel",
     "size": "Taille",
     "status": "Statut matériel",
+    "tag": "Étiqueter",
     "title": "le matériel publicitaire",
     "type": "Type de materiau",
     "typePlaceholder": "Veuillez sélectionner un type de matériau"

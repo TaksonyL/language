@@ -65,6 +65,8 @@
     "default": "",
     "desc": "Intro",
     "detail": "",
+    "exceed150M": "Velikost videa nesmí překročit 150M",
+    "exceed5M": "Velikost obrazu nesmí překročit 5M",
     "filePlaceholder": "",
     "link": "",
     "name": "",
@@ -73,6 +75,7 @@
     "show": "",
     "size": "Velikost",
     "status": "",
+    "tag": "Štítek",
     "title": "",
     "type": "",
     "typePlaceholder": ""

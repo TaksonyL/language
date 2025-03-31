@@ -43,6 +43,7 @@
     "roleType": "角色类型",
     "roleTypePlaceholder": "请选择角色类型"
   },
+  "enterTerminal": "Veuillez entrer le numéro de terminal",
   "flag": "drapeau",
   "language": "langue",
   "localName": "nom local",
@@ -119,7 +120,7 @@
   "payFaceAppIdTips": "请输入APPID",
   "payFaceMerchant": "商户ID",
   "payFaceMerchantTips": "请输入商户ID",
-  "payFacePrivate": "商户密钥",
+  "payFacePrivate": "Clé marchand",
   "payFacePrivateTips": "请输入商户密钥",
   "payFaceSwitch": "支付开关",
   "payJDCreate": "点击确认生成",
@@ -130,7 +131,7 @@
   "payJDGetkey": "获取京东密钥",
   "payJDMd5key": "Md5Key",
   "payJDMd5keyTips": "请输入Md5Key",
-  "payJDMerchant": "商户号",
+  "payJDMerchant": "ID du commerçant",
   "payJDMerchantCheck": "查询商户号",
   "payJDMerchantCheckTips": "请输入需要查询的商户号",
   "payJDMerchantDefault": "默认大可马商户号",
@@ -191,6 +192,7 @@
   "saveMsg": "点击发布后，公众号菜单将会被替换",
   "savePublish": "保存并发布",
   "stateName": "numéro de zone",
+  "terminal": "Numéro de terminal",
   "timeZone": "Fuseau horaire",
   "toCtoP": {
     "debug": "Déboguer",

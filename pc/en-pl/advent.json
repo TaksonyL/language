@@ -19,6 +19,8 @@
     "screenPosPlaceholder": "Please select a screen position",
     "screenPosSub": "Secondary screen",
     "time": "Advertise time",
+    "tip1": "The main screen usually refers to the large display on the front of the device, which has a variety of functions, including displaying product information, advertising, human-computer",
+    "tip2": "A secondary screen usually refers to one or more additional display screens set up on a device to provide additional information display or interactive functions",
     "title": "Default ad"
   },
   "charge": {
@@ -43,6 +45,7 @@
   },
   "count": "Advertise times",
   "countPlaceholder": "Please select advertise times",
+  "delTips": "Does it delete the Android memory?",
   "duration": "Period",
   "outBatch": "Remove in bulk",
   "outBatchTips": "Please select an AD",
@@ -65,6 +68,8 @@
     "default": "Default material",
     "desc": "Intro",
     "detail": "Ad details",
+    "exceed150M": "The video size cannot exceed 150M",
+    "exceed5M": "The image size cannot exceed 5M",
     "filePlaceholder": "Please upload material",
     "link": "Material link",
     "name": "Material name",
@@ -73,6 +78,7 @@
     "show": "Material display",
     "size": "Size",
     "status": "Material status",
+    "tag": "Tag",
     "title": "Ad material",
     "type": "Material type",
     "typePlaceholder": "Please select material type"

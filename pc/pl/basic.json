@@ -43,6 +43,7 @@
     "roleType": "typ roli",
     "roleTypePlaceholder": "Wybierz typ roli"
   },
+  "enterTerminal": "Proszę wprowadzić numer terminala",
   "flag": "flaga",
   "language": "język",
   "localName": "lokalna nazwa",
@@ -191,6 +192,7 @@
   "saveMsg": "Po kliknięciu Opublikuj menu oficjalnego konta zostanie zastąpione",
   "savePublish": "zapisz i opublikuj",
   "stateName": "numer obszaru",
+  "terminal": "Numer terminala",
   "timeZone": "Strefa czasowa",
   "toCtoP": {
     "debug": "Odpluskwić",

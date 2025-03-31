@@ -19,6 +19,8 @@
     "screenPosPlaceholder": "Seleccione una posición de pantalla",
     "screenPosSub": "Subpantalla",
     "time": "Tiempo de colocación",
+    "tip1": "La pantalla principal generalmente se refiere a una gran pantalla en la parte delantera del dispositivo, que tiene una variedad de funciones, incluyendo mostrar información del producto, publicidad, interacción hombre - computadora, etc.",
+    "tip2": "Las pantallas auxiliares suelen referirse a una o más pantallas adicionales instaladas en el dispositivo para proporcionar funciones de visualización o interacción de información adicional.",
     "title": "anuncio predeterminado"
   },
   "charge": {
@@ -43,6 +45,7 @@
   },
   "count": "Número de colocaciones",
   "countPlaceholder": "Por favor seleccione el número de colocaciones",
+  "delTips": "¿Elimina la memoria de Android?",
   "duration": "período",
   "outBatch": "A granel fuera de los estantes",
   "outBatchTips": "Seleccione un anuncio",
@@ -65,6 +68,8 @@
     "default": "material por defecto",
     "desc": "Introducción",
     "detail": "Detalles del anuncio",
+    "exceed150M": "El tamaño del vídeo no puede exceder los 150 m",
+    "exceed5M": "El tamaño de la imagen no puede exceder el 5m",
     "filePlaceholder": "por favor sube material",
     "link": "Enlace material",
     "name": "Nombre del material",
@@ -73,6 +78,7 @@
     "show": "visualización de materiales",
     "size": "Tamaño",
     "status": "estado del material",
+    "tag": "Etiqueta",
     "title": "Material publicitario",
     "type": "Tipo de material",
     "typePlaceholder": "Por favor seleccione un tipo de material"

@@ -19,6 +19,8 @@
     "screenPosPlaceholder": "Bitte wählen Sie die Bildschirmposition",
     "screenPosSub": "Unterbildschirm",
     "time": "Einstiegszeit",
+    "tip1": "Der Hauptbildschirm bezieht sich in der Regel auf das große Display auf der Vorderseite des Geräts, das eine Vielzahl von Funktionen hat, darunter die Anzeige von Produktinformationen, Werbung, Mensch-Computer-Interaktion usw.",
+    "tip2": "Ein sekundärer Bildschirm bezieht sich normalerweise auf einen oder mehrere zusätzliche Bildschirme, die auf einem Gerät eingerichtet sind, um zusätzliche Informationsanzeigen oder interaktive Funktionen bereitzustellen",
     "title": "Die Standardanzeige"
   },
   "charge": {
@@ -43,6 +45,7 @@
   },
   "count": "Anzahl der Vermittlungen",
   "countPlaceholder": "Bitte wählen Sie die Anzahl der Vermittlungen aus",
+  "delTips": "Wird dabei der Android-Speicher gelöscht?",
   "duration": "Zeitraum",
   "outBatch": "Batch-Takedown",
   "outBatchTips": "Bitte wählen Sie eine Anzeige aus",
@@ -65,6 +68,8 @@
     "default": "Standardmaterial",
     "desc": "Einführung",
     "detail": "Details zur Werbeanzeige",
+    "exceed150M": "Die Videogröße darf 150M nicht überschreiten",
+    "exceed5M": "Die Bildgröße darf 5M nicht überschreiten",
     "filePlaceholder": "Bitte Material hochladen",
     "link": "Materieller Link",
     "name": "Name des Materials",
@@ -73,6 +78,7 @@
     "show": "Materialanzeige",
     "size": "Größe",
     "status": "Materialstatus",
+    "tag": "Etikett",
     "title": "Werbematerial",
     "type": "Materialart",
     "typePlaceholder": "Bitte wählen Sie eine Materialart aus"

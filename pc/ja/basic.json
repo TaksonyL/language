@@ -43,6 +43,7 @@
     "roleType": "ロールの種類",
     "roleTypePlaceholder": "ロールの種類を選択"
   },
+  "enterTerminal": "端末番号を入力してください",
   "flag": "国旗",
   "language": "言語",
   "localName": "地域名",
@@ -191,5 +192,6 @@
   "saveMsg": "公開後、公式アカウントのメニューが置き換えられます",
   "savePublish": "保存して公開",
   "stateName": "エリア番号",
+  "terminal": "ターミナル番号",
   "timeZone": "タイムゾーン"
 }

@@ -43,6 +43,7 @@
     "roleType": "역할 유형",
     "roleTypePlaceholder": "역할 유형을 선택하세요."
   },
+  "enterTerminal": "터미널 번호를 입력하십시오.",
   "flag": "깃발",
   "language": "언어",
   "localName": "현지 이름",
@@ -191,6 +192,7 @@
   "saveMsg": "게시를 클릭하면 공개 계정 메뉴가 대체됩니다.",
   "savePublish": "저장 및 게시",
   "stateName": "지역 번호",
+  "terminal": "터미널 번호",
   "timeZone": "시간대",
   "toCtoP": {
     "debug": "디버그",

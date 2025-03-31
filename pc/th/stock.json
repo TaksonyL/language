@@ -56,6 +56,9 @@
   "receiverRolePlaceholder": "กรุณาเลือกตัวตนของผู้รับมอบ",
   "reject": "ปฏิเสธที่จะยอมรับ",
   "revokeSuccess": "เพิกถอนสำเร็จ",
+  "role": {
+    "secretKey": ""
+  },
   "sendTime": "เวลาการส่งมอบ",
   "sender": "ผู้ส่ง",
   "sent": "จัดส่งแล้ว",

@@ -30,6 +30,7 @@
   "balance": "余额",
   "ban": "禁用",
   "belong": "归属",
+  "birth": "出生日期",
   "cancel": "取消",
   "category": "分类",
   "channel": {
@@ -40,6 +41,7 @@
     "placeholder": "请选择货道",
     "title": "货道"
   },
+  "channelNum": "货道编号不能重复",
   "checkAgent": "请选择代理商",
   "checkCustomer": "请选择客户",
   "checkOwner": "请选择场地方",
@@ -102,6 +104,7 @@
   "edit": "编辑",
   "editFailed": "修改失败",
   "editSuccess": "修改成功",
+  "email": "邮箱",
   "emailAddress": "邮件地址",
   "excelExport": "导出Excel",
   "excelExportMsg": "此操作将导出excel文件, 是否继续?",
@@ -125,6 +128,7 @@
   "hide": "隐藏",
   "high": "高",
   "homepage": "首页",
+  "hour": "时",
   "img": "图片",
   "imgSupport": "暂只支持jpeg，png，jpg",
   "input": "请输入",
@@ -154,6 +158,7 @@
   },
   "mapKeyNull": "暂未配置地图Key",
   "mark": "备注",
+  "minutes": "分",
   "mistake": "故障",
   "mobile": "手机端",
   "more": "更多",
@@ -201,11 +206,13 @@
     "name": "订单状态",
     "pay": "已支付",
     "payErr": "支付失败",
+    "payTitle": "支付",
     "payWait": "待确认支付",
     "refund": "已退款",
     "unpay": "未支付"
   },
   "orderType": {
+    "Preorder": "预定订单",
     "code": "提货码",
     "coupon": "优惠券",
     "discount": "优惠订单",
@@ -386,6 +393,8 @@
     "e10": "东十区",
     "e11": "东十一区",
     "e12": "东十二区",
+    "e13": "东十三区",
+    "e14": "东十四区",
     "e2": "东二区",
     "e3": "东三区",
     "e4": "东四区",
@@ -432,13 +441,19 @@
     "year": "年"
   },
   "unknow": "未知",
+  "unlockSuccess": "解锁成功",
   "upload": "上传",
   "uploadSuccess": "上传成功",
+  "uploadTip1": "图片格式仅支持“JPEG”、“JPG”或“PNG”，图片大小不能超过5M。",
+  "uploadTip2": "视频格式仅支持MP4，大小小于150M",
   "userArea": "用户地区分布",
   "userPayRate": "用户支付比例",
   "username": "登录账号",
   "video": "视频",
   "videoErr": "此视频暂无法播放，请稍后再试",
+
+
+  
   "videoSupport": "暂只支持mp4",
   "videoUpload": "上传视频",
   "week": {

@@ -19,6 +19,8 @@
     "screenPosPlaceholder": "Wybierz pozycję ekranu",
     "screenPosSub": "Ekran dodatkowy",
     "time": "czas dostawy",
+    "tip1": "Ekran główny zwykle odnosi się do dużego wyświetlacza z przodu urządzenia, który ma wiele funkcji, w tym wyświetlanie informacji o produkcie, reklamy, komputera człowieka",
+    "tip2": "Ekran wtórny zazwyczaj odnosi się do jednego lub więcej dodatkowych ekranów wyświetlacza ustawionych na urządzeniu w celu zapewnienia dodatkowych informacji lub interaktywnych funkcji",
     "title": "reklama domyślna"
   },
   "charge": {
@@ -43,6 +45,7 @@
   },
   "count": "liczba porcji",
   "countPlaceholder": "Proszę wybrać ilość porcji",
+  "delTips": "Czy usuwa pamięć systemu Android?",
   "duration": "Kropka",
   "outBatch": "Złóż półki",
   "outBatchTips": "Wybierz reklamę",
@@ -65,6 +68,8 @@
     "default": "Domyślny materiał",
     "desc": "Wprowadzenie",
     "detail": "Szczegóły reklamy",
+    "exceed150M": "Rozmiar wideo nie może przekraczać 150M",
+    "exceed5M": "Rozmiar obrazu nie może przekraczać 5M",
     "filePlaceholder": "Prześlij materiał",
     "link": "Link do materiału",
     "name": "Nazwa materiału",
@@ -73,6 +78,7 @@
     "show": "Wyświetlacz materiału",
     "size": "Rozmiar",
     "status": "status materialny",
+    "tag": "Etykietka",
     "title": "twórczy",
     "type": "Typ materiału",
     "typePlaceholder": "Proszę wybrać rodzaj materiału"

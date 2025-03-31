@@ -56,6 +56,9 @@
   "receiverRolePlaceholder": "请选择收货人身份",
   "reject": "拒收",
   "revokeSuccess": "撤销成功",
+  "role": {
+    "secretKey": "密钥"
+  },
   "sendTime": "发货时间",
   "sender": "发货人",
   "sent": "已出库",

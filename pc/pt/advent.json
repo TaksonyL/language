@@ -19,6 +19,8 @@
     "screenPosPlaceholder": "Selecione uma posição de tela",
     "screenPosSub": "Tela secundária",
     "time": "Tempo de lançamento",
+    "tip1": "A tela principal geralmente refere-se ao grande display na parte frontal do dispositivo, que tem uma variedade de funções, incluindo a exibição de informações do produto, publicidade, humano-computador",
+    "tip2": "Uma tela secundária geralmente refere-se a uma ou mais telas de exibição adicionais configuradas em um dispositivo para fornecer exibição de informações adicionais ou funções interativas",
     "title": "anúncio padrão"
   },
   "charge": {
@@ -43,6 +45,7 @@
   },
   "count": "Número de colocações",
   "countPlaceholder": "Selecione o número de colocações",
+  "delTips": "Excluir a memória do android ou não?",
   "duration": "período",
   "outBatch": "Remover a granel",
   "outBatchTips": "Selecione um anúncio",
@@ -65,6 +68,8 @@
     "default": "Material padrão",
     "desc": "Introdução",
     "detail": "Detalhes do anúncio",
+    "exceed150M": "O tamanho do vídeo não pode exceder 150M",
+    "exceed5M": "O tamanho da imagem não pode exceder 5M",
     "filePlaceholder": "Por favor, carregue o material",
     "link": "Link de materiais",
     "name": "Nome do material",
@@ -73,6 +78,7 @@
     "show": "Exibição de materiais",
     "size": "Tamanho",
     "status": "condição do material",
+    "tag": "Marcação",
     "title": "Material publicitário",
     "type": "Tipo de material",
     "typePlaceholder": "Selecione um tipo de material"

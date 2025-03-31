@@ -19,6 +19,8 @@
     "screenPosPlaceholder": "Seleziona una posizione dello schermo",
     "screenPosSub": "Schermo secondario",
     "time": "tempo di rilascio",
+    "tip1": "La schermata principale di solito si riferisce al grande display sulla parte anteriore del dispositivo, che ha una varietà di funzioni, tra cui visualizzazione di informazioni sul prodotto, pubblicità, computer umano",
+    "tip2": "Uno schermo secondario di solito si riferisce a uno o più schermi di visualizzazione aggiuntivi impostati su un dispositivo per fornire informazioni aggiuntive visualizzazione o funzioni interattive",
     "title": "annuncio predefinito"
   },
   "charge": {
@@ -43,6 +45,7 @@
   },
   "count": "Numero di rilasci",
   "countPlaceholder": "Seleziona il numero di rilasci",
+  "delTips": "Cancella la memoria di Android?",
   "duration": "periodo",
   "outBatch": "Rimuovere in blocco",
   "outBatchTips": "Seleziona un annuncio",
@@ -65,6 +68,8 @@
     "default": "Materiale predefinito",
     "desc": "Introduzione",
     "detail": "Dettagli dell'annuncio",
+    "exceed150M": "La dimensione del video non può superare i 150M",
+    "exceed5M": "La dimensione dell'immagine non può superare 5M",
     "filePlaceholder": "Si prega di caricare materiale",
     "link": "Collegamento materiale",
     "name": "Nome materiale",
@@ -73,6 +78,7 @@
     "show": "Esposizione materiale",
     "size": "Misurare",
     "status": "Stato del materiale",
+    "tag": "Etichetta",
     "title": "Materiale pubblicitario",
     "type": "Tipo di materiale",
     "typePlaceholder": "Seleziona un tipo di materiale"

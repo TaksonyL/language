@@ -43,6 +43,7 @@
     "roleType": "tipo de função",
     "roleTypePlaceholder": "Selecione um tipo de função"
   },
+  "enterTerminal": "Indique por favor o número do terminal",
   "flag": "bandeira",
   "language": "linguagem",
   "localName": "nome local",
@@ -191,6 +192,7 @@
   "saveMsg": "Após clicar em Publicar, o menu Conta Oficial será substituído",
   "savePublish": "salvar e publicar",
   "stateName": "número de área",
+  "terminal": "Número do terminal",
   "timeZone": "Fuso horário",
   "toCtoP": {
     "debug": "Depurar",

@@ -43,6 +43,7 @@
     "roleType": "Role type",
     "roleTypePlaceholder": "Please select a role type"
   },
+  "enterTerminal": "Please enter the terminal number",
   "flag": "flag",
   "language": "language",
   "localName": "local name",
@@ -191,6 +192,7 @@
   "saveMsg": "After clicking publish, the public account menu will be replaced",
   "savePublish": "Save and publish",
   "stateName": "area number",
+  "terminal": "Terminal number",
   "timeZone": "Time zone",
   "toCtoP": {
     "debug": "Debug",

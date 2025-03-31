@@ -43,6 +43,7 @@
     "roleType": "Rollentyp",
     "roleTypePlaceholder": "Bitte wählen Sie einen Rollentyp aus"
   },
+  "enterTerminal": "Bitte geben Sie die Terminalnummer ein",
   "flag": "Flagge",
   "language": "Sprache",
   "localName": "Lokaler Name",
@@ -191,6 +192,7 @@
   "saveMsg": "Nachdem Sie auf „Veröffentlichen“ geklickt haben, wird das Menü „Offizieller Account“ ersetzt",
   "savePublish": "speichern und veröffentlichen",
   "stateName": "Gebietsnummer",
+  "terminal": "Terminalnummer",
   "timeZone": "Zeitzone",
   "toCtoP": {
     "debug": "Debuggen",

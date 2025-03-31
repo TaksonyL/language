@@ -43,6 +43,7 @@
     "roleType": "角色类型",
     "roleTypePlaceholder": "请选择角色类型"
   },
+  "enterTerminal": "请输入终端号",
   "flag": "国旗",
   "language": "语言",
   "localName": "当地名称",
@@ -191,6 +192,7 @@
   "saveMsg": "点击发布后，公众号菜单将会被替换",
   "savePublish": "保存并发布",
   "stateName": "区域编号",
+  "terminal": "终端号",
   "timeZone": "时区",
   "toCtoP": {
     "debug": "调试模式",

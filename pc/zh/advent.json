@@ -19,6 +19,8 @@
     "screenPosPlaceholder": "请选择屏幕位置",
     "screenPosSub": "副屏",
     "time": "投放时间",
+    "tip1": "主屏通常指的是设备正面的大型显示屏，它具有多种功能，包括显示商品信息、广告播放、人机交互等",
+    "tip2": "副屏‌通常指的是在设备上设置的一个或多个附加显示屏，用于提供额外的信息展示或交互功能",
     "title": "默认广告"
   },
   "charge": {
@@ -43,6 +45,7 @@
   },
   "count": "投放次数",
   "countPlaceholder": "请选择投放次数",
+  "delTips": "是否删除安卓内存?",
   "duration": "时间段",
   "outBatch": "批量下架",
   "outBatchTips": "请选择广告",
@@ -65,6 +68,8 @@
     "default": "默认素材",
     "desc": "描述",
     "detail": "广告详情",
+    "exceed150M": "视频大小不能超过150M",
+    "exceed5M": "图片大小不能超过5M",
     "filePlaceholder": "请上传素材",
     "link": "素材链接",
     "name": "素材名称",
@@ -73,6 +78,7 @@
     "show": "素材展示",
     "size": "大小",
     "status": "素材状态",
+    "tag": "标签",
     "title": "广告素材",
     "type": "素材类型",
     "typePlaceholder": "请选择素材类型"
