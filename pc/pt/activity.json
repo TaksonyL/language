@@ -1,4 +1,8 @@
 {
+  "AdvAttract": "Anunciantes atraem seguidores",
+  "AnsweringActivity": "Actividade de resposta",
+  "MembershipPackage": "Pacote de Membros",
+  "VirtualCcom": "Ordem virtual de mercadorias",
   "close": "evento encerrado",
   "code": {
     "add": "Adicionar código de coleta",
@@ -173,8 +177,10 @@
     "a": "a",
     "editActivity": "Editar a Actividade",
     "give": "Compre um e ganhe um grátis",
+    "give2": "Compre mais, ganhe mais grátis",
     "limit_days": "Número de dias de recepção",
-    "limit_num": "Quantidade recebida"
+    "limit_num": "Quantidade recebida",
+    "orderResend": "Reenviar a ordem"
   },
   "machine": "Equipamento para eventos",
   "machineBind": "Dispositivos de encadernação",

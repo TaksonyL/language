@@ -27,6 +27,7 @@
     "nowTime": "当前时间",
     "orderCurrencySymbol": "订单货币符号",
     "orderMoney": "订单支付金额",
+    "orderURL": "缺货单URL",
     "refundGoodsNumber": "退款商品数量",
     "refundMoney": "退款金额",
     "saleCost": "销售成本价",
@@ -50,6 +51,7 @@
   "notice": {
     "DoorUnlock": "设备柜门未上锁通知",
     "allStock": "仓库总库存预警通知",
+    "detection": "货道库存检测通知",
     "goodsStock": "仓库商品库存预警通知",
     "lock": "开关锁通知",
     "lockAbnormal": "锁异常通知",
@@ -59,12 +61,12 @@
     "offline": "离线通知",
     "online": "上线通知",
     "outStock": "库存不足通知",
+    "stock": "缺货单通知",
     "temp": "温度预警通知",
     "tempCurrent": "当前温度值",
     "tempWarning": "温度预警值",
     "year": "去年年度销售汇总通知",
-    "yestoday": "昨日销售汇总通知",
-    "detection": "货道库存检测通知"
+    "yestoday": "昨日销售汇总通知"
   },
   "receiver": "接收人",
   "receiverName": "接收者名称",

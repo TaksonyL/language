@@ -49,6 +49,7 @@
   "noticeStockAll": "Total stock notice",
   "noticeTemp": "Temp warn notice",
   "noticeUnlock": "Door unlock notice",
+  "noticeWantSlips": "Out of stock order notification",
   "noticeWeakSignal": "Weak signal notice",
   "noticeYearSales": "Annual Sales Notice",
   "offlineNotice": "Offline notice",

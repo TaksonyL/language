@@ -1,4 +1,8 @@
 {
+  "AdvAttract": "Gli inserzionisti attirano follower",
+  "AnsweringActivity": "Attività di risposta",
+  "MembershipPackage": "Pacchetto di adesione",
+  "VirtualCcom": "Ordine virtuale di materie prime",
   "close": "Chiusura dell'evento",
   "code": {
     "add": "Aggiungi il codice di ritiro",
@@ -173,8 +177,10 @@
     "a": "a",
     "editActivity": "Modifica attività",
     "give": "Comprane uno, prendine uno gratis.",
+    "give2": "Compra di più, ottieni di più gratis",
     "limit_days": "Numero di giorni di ricevimento",
-    "limit_num": "Quantità ricevuta"
+    "limit_num": "Quantità ricevuta",
+    "orderResend": "Ripristina l'ordine"
   },
   "machine": "Attrezzature per eventi",
   "machineBind": "Associa il dispositivo",

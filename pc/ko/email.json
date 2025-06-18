@@ -27,6 +27,7 @@
     "nowTime": "현재 시간",
     "orderCurrencySymbol": "주문 통화 기호",
     "orderMoney": "주문 결제 금액",
+    "orderURL": "품절 주문 URL",
     "refundGoodsNumber": "환불된 상품 수량",
     "refundMoney": "환불 금액",
     "saleCost": "매출원가",
@@ -50,6 +51,7 @@
   "notice": {
     "DoorUnlock": "도어 잠금 해제",
     "allStock": "창고 재고",
+    "detection": "인도재고검측통지",
     "goodsStock": "상품 재고",
     "lock": "잠금 스위치",
     "lockAbnormal": "잠금 경고",
@@ -59,12 +61,12 @@
     "offline": "오프라인 알림",
     "online": "온라인 알림",
     "outStock": "품절 알림",
+    "stock": "품절 주문 통지",
     "temp": "온도",
     "tempCurrent": "현재 온도",
     "tempWarning": "온도 경고",
     "year": "작년 매출",
-    "yestoday": "어제 판매",
-    "detection": "인도재고검측통지"
+    "yestoday": "어제 판매"
   },
   "receiver": "수화기",
   "receiverName": "받는 사람 이름",

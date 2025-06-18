@@ -50,6 +50,7 @@
   "notice": {
     "DoorUnlock": "Puerta desbloqueada",
     "allStock": "stock de almacén",
+    "detection": "Aviso de inspección de inventario de carga",
     "goodsStock": "existencias de bienes",
     "lock": "interruptor de bloqueo",
     "lockAbnormal": "Advertencia de bloqueo",
@@ -59,12 +60,12 @@
     "offline": "notificación fuera de línea",
     "online": "notificación en línea",
     "outStock": "Notificación de existencias agotadas",
+    "stock": "Aviso de pedido de agotamiento",
     "temp": "Temperatura",
     "tempCurrent": "Temperatura actual",
     "tempWarning": "Advertencia de temperatura",
     "year": "Ventas del año pasado",
-    "yestoday": "Ventas de ayer",
-    "detection": "Aviso de inspección de inventario de carga"
+    "yestoday": "Ventas de ayer"
   },
   "receiver": "Receptor",
   "receiverName": "Nombre del Recipiente",

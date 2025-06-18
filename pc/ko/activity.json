@@ -1,4 +1,8 @@
 {
+  "AdvAttract": "광고주 파우더",
+  "AnsweringActivity": "문제 해결 활동",
+  "MembershipPackage": "회원 패키지",
+  "VirtualCcom": "가상 상품 주문",
   "close": "이벤트 종료",
   "code": {
     "add": "픽업 코드 추가",
@@ -173,8 +177,10 @@
     "a": "a",
     "editActivity": "활동 편집",
     "give": "하나를 사면 하나를 준다",
+    "give2": "많이 사면 많이 준다.",
     "limit_days": "받은 일 수",
-    "limit_num": "수신 수량"
+    "limit_num": "수신 수량",
+    "orderResend": "주문 다시 보내기"
   },
   "machine": "이벤트 장치",
   "machineBind": "장치 바인딩",

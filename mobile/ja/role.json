@@ -49,6 +49,7 @@
   "noticeStockAll": "総在庫通知",
   "noticeTemp": "高温警報通知",
   "noticeUnlock": "ドアが施錠されていない通知",
+  "noticeWantSlips": "欠品注文通知",
   "noticeWeakSignal": "電波弱通知",
   "noticeYearSales": "年間売上通知",
   "offlineNotice": "オフライン通知",

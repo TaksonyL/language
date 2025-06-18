@@ -1,4 +1,5 @@
 {
+  "Upload": "Télécharger une image présentant le contenu de la marchandise",
   "add": "Ajout de marchandises",
   "category": "Classification",
   "categoryAdd": "ajouter une catégorie",
@@ -14,6 +15,7 @@
   "expire": "Durée de conservation",
   "expireNoticeLong": "Le préavis d'expiration est trop long",
   "expirePlaceholder": "Veuillez indiquer la durée de conservation du marchandise",
+  "forExample": "Par exemple",
   "imgPlaceholder": "Veuillez télécharger l'image du marchandise",
   "info": "Information marchandise",
   "infoSync": "Synchronisation des informations",

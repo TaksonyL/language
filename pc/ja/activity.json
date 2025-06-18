@@ -1,4 +1,8 @@
 {
+  "AdvAttract": "広告主は粉を吸う",
+  "AnsweringActivity": "質疑応答活動",
+  "MembershipPackage": "会員コース",
+  "VirtualCcom": "仮想商品オーダー",
   "close": "イベント終了",
   "code": {
     "add": "引き取りコードを追加",
@@ -173,8 +177,10 @@
     "a": "a",
     "editActivity": "アクティビティの編集",
     "give": "買うと1つおまけする",
+    "give2": "たくさん買ってたくさん送る",
     "limit_days": "受信日数",
-    "limit_num": "受入数量"
+    "limit_num": "受入数量",
+    "orderResend": "注文の再送信"
   },
   "machine": "イベント機器",
   "machineBind": "デバイスの結びつけ",

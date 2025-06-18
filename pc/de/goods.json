@@ -1,4 +1,5 @@
 {
+  "Upload": "Bilder hochladen, die den Produktinhalt vorstellen",
   "add": "Waren hinzufügen",
   "category": "Einstufung",
   "categoryAdd": "Kategorie hinzufügen",
@@ -14,6 +15,7 @@
   "expire": "Mindesthaltbarkeitsdatum",
   "expireNoticeLong": "Ablaufhinweis ist zu lang",
   "expirePlaceholder": "Bitte geben Sie das Ablaufdatum des Produkts ein",
+  "forExample": "zum Beispiel",
   "imgPlaceholder": "Bitte Produktbild hochladen",
   "info": "Produktinformation",
   "infoSync": "Informationssynchronisierung",

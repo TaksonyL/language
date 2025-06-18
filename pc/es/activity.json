@@ -1,4 +1,8 @@
 {
+  "AdvAttract": "Los anunciantes absorben polvo",
+  "AnsweringActivity": "Actividades de respuesta a preguntas",
+  "MembershipPackage": "Paquete de miembros",
+  "VirtualCcom": "Pedidos de bienes virtuales",
   "close": "Cierre del evento",
   "code": {
     "add": "Añadir código de recogida",
@@ -173,8 +177,10 @@
     "a": "a",
     "editActivity": "Actividades editoriales",
     "give": "Compra uno y entrega uno",
+    "give2": "Comprar más y enviar más",
     "limit_days": "Días recibidos",
-    "limit_num": "Cantidad recibida"
+    "limit_num": "Cantidad recibida",
+    "orderResend": "Volver a enviar el pedido"
   },
   "machine": "Equipo activo",
   "machineBind": "Vincular el dispositivo",

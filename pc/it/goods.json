@@ -1,4 +1,5 @@
 {
+  "Upload": "Carica immagini che introducono il contenuto del prodotto",
   "add": "Aggiungere un prodotto",
   "category": "Classificazione",
   "categoryAdd": "Aggiungi categoria",
@@ -14,6 +15,7 @@
   "expire": "Durata di conservazione",
   "expireNoticeLong": "L'avviso di scadenza è troppo lungo",
   "expirePlaceholder": "Si prega di inserire la data di scadenza del prodotto",
+  "forExample": "per esempio",
   "imgPlaceholder": "Si prega di caricare l'immagine del prodotto",
   "info": "Informazioni sul prodotto",
   "infoSync": "Sincronizzazione delle informazioni",

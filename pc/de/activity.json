@@ -1,4 +1,8 @@
 {
+  "AdvAttract": "Werbetreibende ziehen Follower an",
+  "AnsweringActivity": "Antworttätigkeit",
+  "MembershipPackage": "Mitgliedschaftspaket",
+  "VirtualCcom": "Virtuelle Warenbestellung",
   "close": "Veranstaltung geschlossen",
   "code": {
     "add": "Abholcode hinzufügen",
@@ -172,8 +176,10 @@
   "gives": {
     "a": "Ein",
     "give": "Kaufen Sie einen, bekommen Sie einen gratis",
+    "give2": "Kaufen Sie mehr, bekommen Sie mehr gratis",
     "limit_days": "Anzahl der Eingangstage",
-    "limit_num": "Empfangene Menge"
+    "limit_num": "Empfangene Menge",
+    "orderResend": "Die Bestellung erneut senden"
   },
   "machine": "Aktive Geräte",
   "machineBind": "Binden Sie das Gerät",

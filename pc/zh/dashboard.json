@@ -11,6 +11,9 @@
   "chartSale": "销售统计图",
   "chartSiteScan": "场景扫码人次分析",
   "chartUser": "用户地区分布",
+  "common": {
+    "Deliverycode": "提货码活动"
+  },
   "handler": "处理",
   "high": "高",
   "ignore": "忽略",

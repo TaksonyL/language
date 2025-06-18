@@ -27,6 +27,7 @@
     "nowTime": "aktuální čas",
     "orderCurrencySymbol": "symbol měny objednávky",
     "orderMoney": "Částka platby objednávky",
+    "orderURL": "URL objednávky není skladem",
     "refundGoodsNumber": "Množství vrácených položek",
     "refundMoney": "vrácená částka",
     "saleCost": "náklady na prodej",
@@ -50,6 +51,7 @@
   "notice": {
     "DoorUnlock": "Dveře odemčené",
     "allStock": "skladové zásoby",
+    "detection": "Oznámení o kontrole zásob nákladních pruhů",
     "goodsStock": "zásoby zboží",
     "lock": "Zamykací spínač",
     "lockAbnormal": "Upozornění na zámek",
@@ -59,12 +61,12 @@
     "offline": "offline oznámení",
     "online": "Online oznámení",
     "outStock": "Oznámení o vyprodání zásob",
+    "stock": "Oznámení o objednávce mimo sklad",
     "temp": "Teplota",
     "tempCurrent": "Aktuální tepl",
     "tempWarning": "Upozornění na teplotu",
     "year": "Prodeje v minulém roce",
-    "yestoday": "Včerejší výprodeje",
-    "detection": "Oznámení o kontrole zásob nákladních pruhů"
+    "yestoday": "Včerejší výprodeje"
   },
   "receiver": "Přijímač",
   "receiverName": "Jméno Příjemce",

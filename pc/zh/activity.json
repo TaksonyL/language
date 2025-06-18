@@ -1,4 +1,8 @@
 {
+  "AdvAttract": "广告主吸粉",
+  "AnsweringActivity": "答题活动",
+  "MembershipPackage": "会员套餐",
+  "VirtualCcom": "虚拟商品订单",
   "close": "活动关闭",
   "code": {
     "add": "添加提货码",
@@ -177,8 +181,10 @@
     "a": "个",
     "editActivity": "编辑活动",
     "give": "买一送一",
+    "give2": "买多送多",
     "limit_days": "领取天数",
-    "limit_num": "领取数量"
+    "limit_num": "领取数量",
+    "orderResend": "重新出货订单"
   },
   "machine": "活动设备",
   "machineBind": "绑定设备",

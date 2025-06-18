@@ -27,6 +27,7 @@
     "nowTime": "heure actuelle",
     "orderCurrencySymbol": "symbole de la devise de la commande",
     "orderMoney": "Montant du paiement de la commande",
+    "orderURL": "En rupture de stock URL de commande",
     "refundGoodsNumber": "Quantité d'articles remboursés",
     "refundMoney": "Montant du remboursement",
     "saleCost": "coût des ventes",
@@ -50,6 +51,7 @@
   "notice": {
     "DoorUnlock": "Porte déverrouillée",
     "allStock": "stock d'entrepôt",
+    "detection": "Mitteilung über die Bestandskontrolle von Güterbahnen",
     "goodsStock": "stock de marchandises",
     "lock": "Commutateur de verrouillage",
     "lockAbnormal": "Avertissement de verrouillage",
@@ -59,12 +61,12 @@
     "offline": "notification hors ligne",
     "online": "Avis en ligne",
     "outStock": "Avis de rupture de stock",
+    "stock": "Avis de commande en rupture de stock",
     "temp": "Température",
     "tempCurrent": "Température actuelle",
     "tempWarning": "Avertissement de température",
     "year": "Ventes de l'année dernière",
-    "yestoday": "Soldes d'hier",
-    "detection": "Mitteilung über die Bestandskontrolle von Güterbahnen"
+    "yestoday": "Soldes d'hier"
   },
   "receiver": "Destinataire",
   "receiverName": "nom du destinataire",

@@ -27,6 +27,7 @@
     "nowTime": "hora atual",
     "orderCurrencySymbol": "símbolo de moeda de pedido",
     "orderMoney": "Valor do pagamento do pedido",
+    "orderURL": "URL da ordem fora de stock",
     "refundGoodsNumber": "Quantidade de itens reembolsados",
     "refundMoney": "Quantia de reembolso",
     "saleCost": "custo das vendas",
@@ -50,6 +51,7 @@
   "notice": {
     "DoorUnlock": "Porta destrancada",
     "allStock": "Estoque de armazém",
+    "detection": "Aviso de inspecção de inventário para vias de transporte de mercadorias",
     "goodsStock": "estoque de mercadorias",
     "lock": "Interruptor de bloqueio",
     "lockAbnormal": "Aviso de bloqueio",
@@ -59,12 +61,12 @@
     "offline": "notificação off-line",
     "online": "notificação on-line",
     "outStock": "Notificação de falta de estoque",
+    "stock": "Notificação de encomenda fora de stock",
     "temp": "Temperatura",
     "tempCurrent": "Temperatura atual",
     "tempWarning": "Aviso de temperatura",
     "year": "vendas do ano passado",
-    "yestoday": "vendas de ontem",
-    "detection": "Aviso de inspecção de inventário para vias de transporte de mercadorias"
+    "yestoday": "vendas de ontem"
   },
   "receiver": "Receptor",
   "receiverName": "Nome do Destinatário",

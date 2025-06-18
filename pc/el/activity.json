@@ -1,4 +1,8 @@
 {
+  "AdvAttract": "Οι διαφημιζόμενοι προσελκύουν οπαδούς",
+  "AnsweringActivity": "Δραστηριότητα απάντησης",
+  "MembershipPackage": "Πακέτο μέλους",
+  "VirtualCcom": "Εικονική παραγγελία εμπορευμάτων",
   "close": "",
   "code": {
     "add": "",
@@ -154,6 +158,10 @@
   "discountVal": "",
   "edit": "",
   "expect": "",
+  "gives": {
+    "give2": "Αγοράστε περισσότερα, πάρτε περισσότερα δωρεάν",
+    "orderResend": "Επανααποστολή της παραγγελίας"
+  },
   "machine": "",
   "machineBind": "",
   "machineList": "",

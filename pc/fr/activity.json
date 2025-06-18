@@ -1,4 +1,8 @@
 {
+  "AdvAttract": "Poudre d'aspiration de l'annonceur",
+  "AnsweringActivity": "Répondre aux activités",
+  "MembershipPackage": "Package membres",
+  "VirtualCcom": "Commandes de marchandises virtuelles",
   "close": "Fermeture de l'événement",
   "code": {
     "add": "Ajouter un code de ramassage",
@@ -173,8 +177,10 @@
     "a": "a",
     "editActivity": "Modifier les activités",
     "give": "Achetez - en un obtenez - en un",
+    "give2": "Achetez plus Obtenez plus",
     "limit_days": "Nombre de jours reçus",
-    "limit_num": "Quantité reçue"
+    "limit_num": "Quantité reçue",
+    "orderResend": "Renvoyer une commande"
   },
   "machine": "Équipement pour événements",
   "machineBind": "Lier l'appareil",

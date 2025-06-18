@@ -1,4 +1,8 @@
 {
+  "AdvAttract": "Reklamní inzerenti přitahují následovníky",
+  "AnsweringActivity": "Odpovídající činnost",
+  "MembershipPackage": "Balíček členství",
+  "VirtualCcom": "Virtuální objednávka zboží",
   "close": "",
   "code": {
     "add": "",
@@ -154,6 +158,10 @@
   "discountVal": "",
   "edit": "",
   "expect": "",
+  "gives": {
+    "give2": "Kup víc, dostaň víc zdarma",
+    "orderResend": "Znovu odeslat objednávku"
+  },
   "machine": "",
   "machineBind": "",
   "machineList": "",

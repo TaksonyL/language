@@ -1,4 +1,8 @@
 {
+  "AdvAttract": "Advertisers attract followers",
+  "AnsweringActivity": "Answering activity",
+  "MembershipPackage": "Membership Package",
+  "VirtualCcom": "Virtual commodity order",
   "close": "Event closed",
   "code": {
     "add": "Add pickup code",
@@ -176,8 +180,10 @@
     "a": "a",
     "editActivity": "Edit Activity",
     "give": "buy one get one free",
+    "give2": "Buy more, get more free",
     "limit_days": "Number of days of receipt",
-    "limit_num": "Quantity received"
+    "limit_num": "Quantity received",
+    "orderResend": "Resend the order"
   },
   "machine": "Event device",
   "machineBind": "Bind the device",

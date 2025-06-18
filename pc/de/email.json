@@ -27,6 +27,7 @@
     "nowTime": "aktuelle Uhrzeit",
     "orderCurrencySymbol": "Währungssymbol bestellen",
     "orderMoney": "Zahlungsbetrag bestellen",
+    "orderURL": "Nicht auf Lager Bestell-URL",
     "refundGoodsNumber": "Menge der erstatteten Artikel",
     "refundMoney": "Rückerstattungsbetrag",
     "saleCost": "Umsatzkosten",
@@ -50,6 +51,7 @@
   "notice": {
     "DoorUnlock": "Tür entriegelt",
     "allStock": "Lagerbestand",
+    "detection": "Mitteilung über die Bestandskontrolle von Güterbahnen",
     "goodsStock": "Warenbestand",
     "lock": "Sperrschalter",
     "lockAbnormal": "Sperrwarnung",
@@ -59,12 +61,12 @@
     "offline": "Offline-Benachrichtigung",
     "online": "Online-Benachrichtigung",
     "outStock": "Nicht vorrätige Benachrichtigung",
+    "stock": "Benachrichtigung über Nicht-Lager-Bestellungen",
     "temp": "Temperatur",
     "tempCurrent": "Aktuelle Temp",
     "tempWarning": "Temperaturwarnung",
     "year": "Verkäufe im letzten Jahr",
-    "yestoday": "Gestern Ausverkauf",
-    "detection": "Mitteilung über die Bestandskontrolle von Güterbahnen"
+    "yestoday": "Gestern Ausverkauf"
   },
   "receiver": "Empfänger",
   "receiverName": "Empfängername",

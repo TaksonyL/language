@@ -1,4 +1,8 @@
 {
+  "AdvAttract": "Reklamodawcy przyciągają zwolenników",
+  "AnsweringActivity": "Działalność odpowiadająca",
+  "MembershipPackage": "Pakiet członkowski",
+  "VirtualCcom": "Wirtualne zamówienie towarów",
   "close": "wydarzenie zamknięte",
   "code": {
     "add": "Dodaj kod odbioru",
@@ -173,8 +177,10 @@
     "a": "a",
     "editActivity": "Edytuj aktywność",
     "give": "Kup jedną, dostań jedną za darmo.",
+    "give2": "Kup więcej, dostaj więcej za darmo",
     "limit_days": "Liczba dni odbioru",
-    "limit_num": "Otrzymana ilość"
+    "limit_num": "Otrzymana ilość",
+    "orderResend": "Wyślij ponownie zamówienie"
   },
   "machine": "Sprzęt aktywny",
   "machineBind": "Powiąż urządzenie",

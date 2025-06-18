@@ -27,6 +27,7 @@
     "nowTime": "current time",
     "orderCurrencySymbol": "order currency symbol",
     "orderMoney": "Order Payment Amount",
+    "orderURL": "Out of stock order URL",
     "refundGoodsNumber": "Quantity of refunded items",
     "refundMoney": "refund amount",
     "saleCost": "cost of sales",
@@ -50,6 +51,7 @@
   "notice": {
     "DoorUnlock": "Door unlocked",
     "allStock": "Warehouse stock",
+    "detection": "Notice of inventory inspection for freight lanes",
     "goodsStock": "Goods stock",
     "lock": "Lock switch",
     "lockAbnormal": "Lock warning",
@@ -59,12 +61,12 @@
     "offline": "offline notification",
     "online": "Online notification",
     "outStock": "Out of Stock Notification",
+    "stock": "Out of stock order notification",
     "temp": "Temperature",
     "tempCurrent": "Current Temp",
     "tempWarning": "Temp warning",
     "year": "Last year sales",
-    "yestoday": "Yesterday sales",
-    "detection": "Notice of inventory inspection for freight lanes"
+    "yestoday": "Yesterday sales"
   },
   "receiver": "Receiver",
   "receiverName": "recipient name",
